@@ -27,8 +27,13 @@ The notebook performs the following steps:
 # Output Structure
 
 The final output of the crew execution will contain the results from each task, including:
+
   -A summary of the research.
+  
   -The short-form and long-form Instagram captions.
+  
   -The finalized list of hashtags.
+  
   -The image prompts used and the file paths of the generated images.
+  
 The generated images are saved locally as .png files with a timestamp in the filename.
