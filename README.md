@@ -6,10 +6,10 @@ The notebook performs the following steps:
 - Setup: Imports necessary libraries and configures the LLM (OpenAI in this case).
 - Image Generation Tool: Defines a tool using diffusers and the "segmind/SSD-1B" model to generate images based on text prompts and saves them locally.
 - Agent Definition: Defines four agents:
-    -Researcher: Gathers information on the topic.
-    -Writer: Creates short-form and long-form Instagram captions.
-    -Reviewer: Polishes and finalizes the captions and hashtags.
-    -Image Generator: Creates image prompts and uses the image generation tool.
+    >Researcher: Gathers information on the topic.
+    >Writer: Creates short-form and long-form Instagram captions.
+    >Reviewer: Polishes and finalizes the captions and hashtags.
+    >Image Generator: Creates image prompts and uses the image generation tool.
 - Task Definition: Defines the tasks for each agent.
 - Crew Creation: Assembles the agents and tasks into a sequential crew.
 - Execution: Runs the crew with a given topic, generating research, captions, hashtags, image prompts, and images.
