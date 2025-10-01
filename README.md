@@ -12,7 +12,7 @@ The notebook performs the following steps:
     
     >Reviewer: Polishes and finalizes the captions and hashtags.
     
-    >Image Generator: Creates image prompts and uses the image generation tool.
+    >Designer: Creates image prompts and uses the image generation tool.
     
 - Task Definition: Defines the tasks for each agent.
 - Crew Creation: Assembles the agents and tasks into a sequential crew.
