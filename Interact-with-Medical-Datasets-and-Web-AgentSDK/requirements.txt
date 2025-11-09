@@ -1,0 +1,14 @@
+langchain
+langchain-community
+pandas
+sqlalchemy
+sqlite3-binary
+dotenv
+langchain-tavily
+langgraph
+openai
+openai-agents
+langchain-openai
+langchain-community
+langchain-tavily
+langgraph
